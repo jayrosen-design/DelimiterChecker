@@ -1,0 +1,1 @@
+if (denominator[x] == 0) {cout << "ERROR: Cannot divide by zero.\n}";
